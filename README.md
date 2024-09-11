@@ -1,3 +1,36 @@
+# Kitap Yönetim Uygulaması
+
+Bu proje, **Angular 18** ve **NgRx** kullanarak geliştirilmiş basit bir kitap yönetim uygulamasıdır. Uygulama, kullanıcıların aşağıdaki işlemleri yapmasına olanak tanır:
+
+- Yeni bir kitap ekleme
+- Eklenen kitapları listeleme
+- Listeden kitap çıkarma
+
+## Özellikler
+
+- **Durum Yönetimi**: Uygulama, kitap listesinin durumunu yönetmek için NgRx kullanmaktadır.
+- **Minimal İşlevsellik**: Sadece kitap ekleme, listeleme ve çıkarma gibi temel özellikler bulunmaktadır.
+___________________________________________________
+# Book Management App
+
+This is a simple book management application built using **Angular 18** and **NgRx**. The application allows users to:
+
+- Add a new book
+- Display the list of added books
+- Remove a book from the list
+
+## Features
+
+- **State Management**: The app uses NgRx to manage the state of the book collection.
+- **Minimal Functionality**: Only basic features like adding, viewing, and removing books are implemented.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/book-management-app.git
+
+___________________________________________________
 # BookManagement
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
