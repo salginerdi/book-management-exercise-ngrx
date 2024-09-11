@@ -12,6 +12,7 @@ Bu proje, **Angular 18** ve **NgRx** kullanarak geliştirilmiş basit bir kitap 
 - **Minimal İşlevsellik**: Sadece kitap ekleme, listeleme ve çıkarma gibi temel özellikler bulunmaktadır.
 
 İncelemek için:
+
 ![1](https://github.com/user-attachments/assets/82269568-bc62-4049-88ac-e3f98ef31f50)
 
 ___________________________________________________
@@ -29,6 +30,7 @@ This is a simple book management application built using **Angular 18** and **Ng
 - **Minimal Functionality**: Only basic features like adding, viewing, and removing books are implemented.
 
 To preview:
+
 ![1](https://github.com/user-attachments/assets/4ef7c02f-0da9-4087-9a82-f0869c607804)
 
 ___________________________________________________
